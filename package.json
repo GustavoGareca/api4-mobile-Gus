@@ -1,0 +1,13 @@
+{
+  "name": "mobile-testing-products",
+  "version": "1.0.0",
+  "description": "Actividad Mobile Testing - QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0"
+  },
+  "type": "module"
+}
